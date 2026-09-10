@@ -110,8 +110,8 @@ function Projects(){
                     <h2>CSS</h2>
                     <h2>Hooks</h2>
                     <div className="links">
-                    <a href="" target="blank">View project</a>
-                    <a href="" target="blank">GitHub</a>
+                    <a href="https://dashboard-nu-nine-45.vercel.app" target="blank">View project</a>
+                    <a href="https://github.com/elnewahyeslam-lang/Dashboard" target="blank">GitHub</a>
                 </div>
             </div>
             </div>

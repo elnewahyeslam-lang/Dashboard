@@ -30,7 +30,7 @@ function Tasks( {tasks,setasks}){
     }
     return(
         <div className="recent-tasks">
-        <h1>Recent Taska</h1>
+        <h1>Recent Tasks</h1>
         <div className="add-task">
             <input type="text"  placeholder="Write The Task " value={input} onChange={(e)=>setinput(e.target.value)}
             

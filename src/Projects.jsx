@@ -14,7 +14,7 @@ function Projects(){
                 <img src={loginImage}  />
                 <div className="descript">
                 <h1>Login page</h1>
-                <p> A responsive loin form with from validation and local storge Functionality, built with HTML,CSS,and JavaScript</p>
+                <p> A responsive login form with from validation and local storge Functionality, built with HTML,CSS,and JavaScript</p>
                 </div>
                 <div className="tags">
                     <h2>Local Storge</h2>
